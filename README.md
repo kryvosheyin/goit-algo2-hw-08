@@ -1,1 +1,7 @@
-# goit-algo2-hw-08
+# Task 1
+
+![alt text](image.png)
+
+# Task 2
+
+![alt text](image-1.png)
